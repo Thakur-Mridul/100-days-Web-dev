@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: beige;
+  margin: 50px;
+}
+h2 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(172, 88, 19);
+  text-align: center;
+  
+}
+p {
+  color: rgb(76, 75, 75);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  font-size: 21px;
+}
+#first-para {
+  color: rgb(111, 61, 0);
+  font-weight: bold;
+  font-size: 44px;
+}
+a {
+  color: rgb(186, 75, 75);
+  text-decoration: none;
+  font-size: 21px;
+}
+a:hover {
+  color: rgb(86, 86, 113);
+  text-decoration: underline;
+}

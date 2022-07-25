@@ -1,0 +1,61 @@
+header{
+    margin-bottom:55px;
+}
+h2{
+    font-size: 48px;
+    color: rgb(53, 53, 53);
+    margin: 50px 0px;
+}
+
+header p {
+    margin-bottom: 50px;
+
+}
+
+h3{
+    color: brown;
+    font-size: 30px;
+}
+
+main p {
+    color:rgb(131, 28, 28);
+    font-size: 21px;
+}
+
+a{
+    background-color: rgb(167, 11, 11);
+    border-radius: 10px;
+    font-size: 24px;
+    color: white;
+    padding: 12px 48px;
+    display: inline-block;
+    
+    
+}
+
+a:hover{
+    text-decoration: none;
+    background-color: rgb(180, 12, 90);
+    color: white;
+}
+
+ol{
+    list-style: none;
+    width: 500px;
+    margin: 56px auto 0 auto;
+    padding: 0px;
+    
+}
+
+li{
+    padding: 16px;
+    background-color: rgb(223, 136, 124);
+    border-radius: 7px;
+    margin: 35px;
+    box-shadow: 10px 15px 15px grey;
+    
+}
+
+.highlight{
+    background-color: rgb(171, 113, 113);
+}
